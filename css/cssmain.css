@@ -776,7 +776,7 @@
   }
   
   .trending-searches-list li::before {
-    content: url('/img/clock.svg');;
+    content: url('../img/clock.svg');;
     margin-right: 15px; 
     margin-top: 5.5px;
     color: #9AA0A6;
