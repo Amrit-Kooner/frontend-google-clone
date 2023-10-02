@@ -1,6 +1,6 @@
 # frontend-google-clone
 ...
 
-Live Demo: 
+Live Demo: https://amrit-kooner.github.io/frontend-google-clone/
 
-View on my Portfolio:
+View on Portfolio: https://amrit-kooner.github.io/personal-portfolio/project-google.html
